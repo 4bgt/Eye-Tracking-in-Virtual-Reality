@@ -1,0 +1,2 @@
+# Eye-Tracking-in-Virtual-Reality
+This Repo will be a collection of ways to get eye tracking data from multiple VR headsets out there, including instruction, pittfalls, examples and some ideas on how to analyse the data. I stumbled across a lot of problems related to this during my phd, and I hope that somene else can benefit from this knowledge. Feel free to contribute new information to this git, since it is a quickly changing field and some of the packages are updated frequently.
